@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Homescreen.unity
+    guid: 8de735d35f2a67348a91a6073c1cb013
+  - enabled: 1
+    path: Assets/Scenes/Set Nickname.unity
+    guid: 5afcf99c487a63742987251175c146a8
+  - enabled: 1
+    path: Assets/Scenes/GameOverArena.unity
+    guid: 8a0cc6d7802827948811c09a59c46d70
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 7d2e69e149ee4284da31654ffe3413a8
+  - enabled: 1
+    path: Assets/Scenes/Maze Runer.unity
+    guid: db95a2742fb8d86498924521ab5b8609
+  - enabled: 1
+    path: Assets/Scenes/ReadyToStart.unity
+    guid: 0d149f34bb66bfe409d80252ad063d50
+  - enabled: 1
+    path: Assets/Scenes/Arena.unity
+    guid: f5f908ae0cfe68244b5d13217c1ff2b2
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: e0536b1202be84e41b35856c47fe201d
+  - enabled: 0
+    path: Assets/Scenes/Loading.unity
+    guid: 125ce42dec80ed64387d53e609abccec
+  - enabled: 0
+    path: Assets/Scenes/Online Lobby.unity
+    guid: eb67f4fa39d633849910dec916286858
+  - enabled: 0
+    path: Assets/Scenes/Online Create Room.unity
+    guid: 8935e2052a1947f4b989f74ede7395f7
+  - enabled: 0
+    path: Assets/Scenes/Online Rooms List.unity
+    guid: 90ae17b1e730e274fa70947dcac6f2df
+  - enabled: 0
+    path: Assets/Scenes/Online Test.unity
+    guid: d9c3e2b16e5432d41818c9a3e41b635d
+  m_configObjects: {}

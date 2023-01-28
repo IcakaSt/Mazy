@@ -1,0 +1,3 @@
+rep "Maze Game Official Game@Hristo_Studio@cloud"
+  path "/"
+    smartbranch "/main"

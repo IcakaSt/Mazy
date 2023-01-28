@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2262999045271638534
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6508295301633791296}
+  - component: {fileID: -905900619913781684}
+  m_Layer: 0
+  m_Name: Skins
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6508295301633791296
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2262999045271638534}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 390.479, y: 224.86719, z: 1.2281753}
+  m_LocalScale: {x: 1, y: 1, z: 31}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &-905900619913781684
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2262999045271638534}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4368690ad95dc14d829caeeae774614, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  skins:
+  - name: 0
+    vision: 50
+    speed: 30
+    time: 5
+    material: {fileID: 2100000, guid: 486157ccecf54b94687c6d92b5f07210, type: 2}
+    character: {fileID: 3628509649264545831, guid: cf54065e6713caf4e8653216f3329b5a, type: 3}
+  - name: 1
+    vision: 25
+    speed: 50
+    time: 6
+    material: {fileID: 2100000, guid: ff1fb88ada47a7246a885daf6146830b, type: 2}
+    character: {fileID: 7911504966233933954, guid: b4bc278b038b33b408f037440f34c154, type: 3}
+  - name: 2
+    vision: 30
+    speed: 40
+    time: 2
+    material: {fileID: 2100000, guid: b8859fe2792b4bb429faff154b8b5a10, type: 2}
+    character: {fileID: 4750572981641478299, guid: 7a6ea2d533da0a04d944b9a223966357, type: 3}
+  - name: 3
+    vision: 45
+    speed: 35
+    time: 3
+    material: {fileID: 2100000, guid: 5e2d1acf392361b428be954ce72a8a60, type: 2}
+    character: {fileID: 822455729157669128, guid: ee59b7aead88c384ea88f89daaf2c69e, type: 3}
+  - name: 4
+    vision: 30
+    speed: 55
+    time: 12
+    material: {fileID: 2100000, guid: 138d6406e3cd78847ae0abaa8dc42a7c, type: 2}
+    character: {fileID: 246303827689023996, guid: 58c873f2e080ce6418938f53a52bf790, type: 3}
+  - name: 5
+    vision: 45
+    speed: 60
+    time: 3
+    material: {fileID: 2100000, guid: 4820c2b9763dac34f9c5a9933839ad96, type: 2}
+    character: {fileID: 7696526461488030118, guid: d852a2e19b36e6b45ad0ebd11e2d6f79, type: 3}
+  - name: 6
+    vision: 55
+    speed: 45
+    time: 5
+    material: {fileID: 2100000, guid: f5a6d5c98243efa409f2a3ddd60792b9, type: 2}
+    character: {fileID: 7621997696821607121, guid: f07d350ebf73b6d48be8d2974924bbb1, type: 3}
+  - name: 7
+    vision: 45
+    speed: 55
+    time: 10
+    material: {fileID: 2100000, guid: 542f767f496969e41800823cc2f793ce, type: 2}
+    character: {fileID: 8532366147820392365, guid: 9c75f5333adc3bc41a89be733a9968c0, type: 3}
